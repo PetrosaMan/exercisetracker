@@ -6,7 +6,7 @@ body {
   font-family:sans-serif;
   margin: 25px;
   color: #222;
-  background-color: #f5f5f5;
+  background-color: #f5f5f5;  
 }
 
 h1 {  
@@ -20,7 +20,7 @@ p {
 form {
   margin-bottom: 25px;
   padding: 15px;
-  background-color: #87D37C;
+  background-color: #00cc99; 
   display: inline-block;
   width: 100%;
   max-width: 340px;
